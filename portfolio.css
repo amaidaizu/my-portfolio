@@ -39,8 +39,17 @@ a {
     font-family: "Silkscreen", serif;
 }
 
+a-2 {
+   color: #d0e8c5;
+    font-family: "Silkscreen", serif;
+}
+
 a:hover {
     color: #fcfbf4;
+}
+
+a-2:hover {
+    color: #ab886d;
 }
 
 p {
@@ -75,6 +84,15 @@ img {
     width: 200px;
     text-align: center;
     background-color: #ab886d;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.cadre-2 {
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #fcfbf4;
     margin: auto;
     border-radius: 10px;
 }
