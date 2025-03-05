@@ -39,16 +39,11 @@ a {
     font-family: "Silkscreen", serif;
 }
 
-a-2 {
-   color: #d0e8c5;
-    font-family: "Silkscreen", serif;
-}
-
 a:hover {
     color: #fcfbf4;
 }
 
-a-2:hover {
+.just-for-hover a:hover {
     color: #ab886d;
 }
 
