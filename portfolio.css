@@ -9,6 +9,14 @@ body {
     text-align: center;
 }
 
+.smiley {
+            font-size: 50px;
+            transition: color 0.3s ease-in-out;
+        }
+        .smiley:hover {
+            color: pink;
+        }
+
 .navbar {
     display: flex;
     background-color: #d0e8c5;
