@@ -18,8 +18,8 @@ body {
         }
 
 @keyframes float {
-            from { left: -100px; }
-            to { left: 100vw; }
+            from {left: -100px;}
+            to {left: 100vw;}
         }
 
 .navbar {
