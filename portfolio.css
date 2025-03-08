@@ -9,19 +9,6 @@ body {
     text-align: center;
 }
 
-.cloud {
-            position: absolute;
-            top: 50px;
-            left: -100px;
-            font-size: 60px;
-            animation: float 10s linear infinite;
-        }
-
-@keyframes float {
-            from {left: -100px;}
-            to {left: 100vw;}
-        }
-
 .navbar {
     display: flex;
     background-color: #d0e8c5;
@@ -50,6 +37,7 @@ h2 {
 a {
    color: #d0e8c5;
     font-family: "Silkscreen", serif;
+    text-decoration-line: underline;
 }
 
 a:hover {
