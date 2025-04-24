@@ -6,7 +6,7 @@ body {
 
 /* Titre */
 .title {
-    color: #d0e8c5;
+    color: #ffdbe2;
     font-family: "Silkscreen", serif;
     font-size: 55px;
     text-align: center;
@@ -15,7 +15,7 @@ body {
 /* Menu de navigation */
 .navbar {
     display: flex;
-    background-color: #d0e8c5;
+    background-color: #ffdbe2;
     padding: 5px;
     width: 100%;
     position: fixed;
@@ -43,7 +43,7 @@ h2 {
 
 /* Liens */
 a {
-    color: #d0e8c5;
+    color: #ffdbe2;
     font-family: "Silkscreen", serif;
     text-decoration-line: underline;
 }
@@ -85,7 +85,7 @@ img {
 
 .cadre {
     width: 300px;
-    background-color: #d0e8c5;
+    background-color: #ffdbe2;
 }
 
 .cadre-1 {
@@ -100,7 +100,7 @@ img {
 
 /* Email */
 .email {
-    color: #d0e8c5;
+    color: #ffdbe2;
     font-family: "Silkscreen";
 }
 
@@ -125,7 +125,7 @@ iframe {
 
 /* Boîtes de contenu */
 .box {
-    background-color: #d0e8c5;
+    background-color: #ffdbe2;
     padding: 20px;
     border-radius: 10px;
     width: 100%;
