@@ -7,7 +7,7 @@ body {
 /* Titre */
 .title {
     color: #ffdbe2;
-    font-family: "Silkscreen", serif;
+    font-family: "Jacquard 12 Charted", serif;
     font-size: 55px;
     text-align: center;
 }
@@ -227,3 +227,4 @@ footer {
     width: 100%;
     margin: 0;
 }
+
