@@ -6,7 +6,7 @@ body {
 
 /* Titre */
 .title {
-    color: #ffdbe2;
+    color: #ab886d;
     font-family: "Jacquard 12 Charted", serif;
     font-size: 55px;
     text-align: center;
@@ -227,4 +227,5 @@ footer {
     width: 100%;
     margin: 0;
 }
+
 
