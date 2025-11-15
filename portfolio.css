@@ -203,6 +203,48 @@ iframe {
     overflow: hidden;
 }
 
+table {
+  border-collapse: collapse;
+  font-family: "Pixelify Sans";
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+}
+
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: lighter;
+}
+
+thead,
+tfoot {
+  background-color: rgba(171, 136, 109, 0.56);
+  border-radius: 25px;
+}
+
+th,
+td {
+  border: 1px solid #AB886D;
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:nth-of-type(even) {
+  background-color: rgba(171, 136, 109, 0.56);
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot td {
+  font-weight: bold;
+}
+
+
 .images-container img {
     width: 50%;
     height: auto;
@@ -227,5 +269,3 @@ footer {
     width: 100%;
     margin: 0;
 }
-
-
